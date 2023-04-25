@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    background-image: url('/static/images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.index-h1{
+    color: rgb(251, 253, 253);
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+a{
+    color: rgb(251, 253, 253);
+    margin-top: 80px;
+    font-size: large;
+}
+h5, p, h2{
+    color: rgb(251, 253, 253);
+}
+.dash-bg{
+    background-image: url('/static/images/dashboard-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+th{
+    color: rgb(250, 249, 247);
+}
+.register-bg{
+    background-image: url('/static/images/register-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.login-bg{
+    background-image: url('/static/images/login-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.welcome-bg{
+    background-image: url('/static/images/welcome-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#welcome-text{
+    color: white;
+}
+.a-welcome, td{
+    color: rgb(241, 10, 99);
+}
+.view-anime-bg{
+    background-image: url('/static/images/view-anime-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.create-bg{
+    background-image: url('/static/images/create-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.form-control{
+    background-color: transparent;
+}
+.bg-read_anime{
+    background-image: url('/static/images/chapter-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+span{
+    color: white;
+    font-size: larger;
+}
+.card{
+    background-color: rgba(245, 245, 245, 0.4);
+    padding: 20px;
+}
+p{
+    color: rgb(202, 237, 6);
+}
